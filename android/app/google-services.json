@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816990140295",
+    "project_id": "threadly-smapp-94d43",
+    "storage_bucket": "threadly-smapp-94d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816990140295:android:f890a8eebbf4630b5e4522",
+        "android_client_info": {
+          "package_name": "com.example.socialnex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvU59NBs8uB23yUXfmFm0DICK6UPB72Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
