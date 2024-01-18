@@ -15,5 +15,20 @@ Threadly have so much functions:
 9. Build in-app chat app
 10. E-mail confirmation using firebase options
 
-## How to use Threadly?
-First you need to copy this git project to your Visual Studio Code. In visual studio remember to get dart extension to connect it and lunch it on your mobile emulator.
+
+## Requirements
+[Android Studio](https://developer.android.com/studio)
+
+[Flutter](https://docs.flutter.dev/get-started/install)
+
+[Node.js](https://nodejs.org/en)
+
+[Flutter Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+
+[Firebase Project](https://console.firebase.google.com/u/0/)
+
+
+
+
+
+
