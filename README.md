@@ -29,5 +29,5 @@ Then, use Android Studio to launch an Android emulator.
 
 Finally, open this project in either Visual Studio Code or Android Studio, and run it. The project should build and launch on your emulator.
 
-####Remember to create an account in the app to gain access to the main panel.
+Remember to create an account in the app to gain access to the main panel.
     
