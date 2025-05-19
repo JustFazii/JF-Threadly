@@ -1,34 +1,32 @@
-## What is Threadly?
-Threadly is a social media app, created using Flutter.
-Generaly is a project made on Studies.
 
-## What Threadly have inside?
-Threadly have so much functions:
-1. Login / Register function
-2. Home Screen
-3. Adding Posts
-4. Like and Comment sections
-5. Adding to a friend list
-6. Friend Screen
-7. Videos Screen
-8. Log out
-9. Build in-app chat app
-10. E-mail confirmation using firebase options
+# Threadly - Facebook Clone
+
+Threadly is a social media app created using Flutter, developed as a college project.
+
+It is essentially a copy of the Facebook mobile app, with a slightly modified user interface.
+The app also includes a private chat feature similar to Messenger.
+
+
+
+## Authors
+
+- [@JustFazii](https://www.github.com/JustFazii) - Backend
+- [@Lidzl](https://github.com/Lidzl) - Frontend
 
 
 ## Requirements
-[Android Studio](https://developer.android.com/studio)
 
-[Flutter](https://docs.flutter.dev/get-started/install)
+- [Android Studio](https://developer.android.com/studio)
+- [Flutter](https://docs.flutter.dev/get-started/install)
+- [Node.js](https://nodejs.org/en)
+- [Flutter Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+- [Firebase Project](https://console.firebase.google.com/u/0/)
+## Installation
 
-[Node.js](https://nodejs.org/en)
+To install this app, and use it by yourself, you need to have created Firebase project to connect to this app.
 
-[Flutter Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+Then you have to use Android Studio to run mobile simulator with android system.
 
-[Firebase Project](https://console.firebase.google.com/u/0/)
-
-
-
-
-
-
+Finally you run, this project in VSC or in Adnroid Studio, then it should build and run on your simulator. 
+#### Remember to create account to get access to main panel.
+    
