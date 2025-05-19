@@ -23,10 +23,11 @@ The app also includes a private chat feature similar to Messenger.
 - [Firebase Project](https://console.firebase.google.com/u/0/)
 ## Installation
 
-To install this app, and use it by yourself, you need to have created Firebase project to connect to this app.
+To install and use this app yourself, you need to create a Firebase project and connect it to the app.
 
-Then you have to use Android Studio to run mobile simulator with android system.
+Then, use Android Studio to launch an Android emulator.
 
-Finally you run, this project in VSC or in Adnroid Studio, then it should build and run on your simulator. 
-#### Remember to create account to get access to main panel.
+Finally, open this project in either Visual Studio Code or Android Studio, and run it. The project should build and launch on your emulator.
+
+####Remember to create an account in the app to gain access to the main panel.
     
